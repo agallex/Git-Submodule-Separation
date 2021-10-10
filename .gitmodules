@@ -1,0 +1,3 @@
+[submodule "Git-Submodule-Separation-Public2"]
+	path = Git-Submodule-Separation-Public2
+	url = git@github.com:agallex/Git-Submodule-Separation-Public2.git
