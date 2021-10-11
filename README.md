@@ -35,6 +35,6 @@ git submodule add "git@github.com:agallex/Git-Submodule-Separation-Public2.git"
 
 git add --all
 
-git commit -am «lll"
+git commit -am "lll"
 
 git push origin
