@@ -27,7 +27,7 @@ git commit -m "sd"
 
 git remote add main "git@github.com:agallex/Git-Submodule-Separation-Public2.git"
 
-git push -u origin r1.14
+git push -u main r1.14
 
 Теперь в репозитории Git-Submodule-Separation-Public, я создаю ссылку на Git-Submodule-Separation-Public2:
 
